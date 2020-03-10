@@ -1,0 +1,1 @@
+pay close attention to library ordering and stuff for the quasipoissonpobs package, it matters what order calls go in for compliation
